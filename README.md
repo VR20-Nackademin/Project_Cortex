@@ -1,6 +1,8 @@
 # Project Coretex
 
 
+## Authors / Credits
+
 
 ## Setup
 
