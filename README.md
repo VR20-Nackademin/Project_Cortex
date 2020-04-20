@@ -1,6 +1,6 @@
 # Project Coretex
 
-[![screenshot](./Screenshots/sc.png)]
+![screenshot](./Screenshots/sc.png)
 
 
 ## Description
